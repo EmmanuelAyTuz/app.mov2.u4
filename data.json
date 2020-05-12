@@ -156,12 +156,12 @@
   },
   {
     "title": "List Views",
-    "description": "Las vistas de lista en jQuery Mobile son listas HTML estándar; ordenado (<ol>) y desordenado (<ul>).",
+    "description": "Las vistas de lista en jQuery Mobile son listas HTML estándar; ordenado 'ol' y desordenado 'ul'.",
     "url": "/34/"
   },
   {
     "title": "Listas de solo lectura",
-    "description": "Para mostrar listas de solo lectura omitir agregar ligas, en cada elemento <li>.",
+    "description": "Para mostrar listas de solo lectura omitir agregar ligas, en cada elemento 'li'.",
     "url": "/35/"
   },
   {
@@ -186,7 +186,7 @@
   },
   {
     "title": "Burbujas de conteo",
-    "description": "Las burbujas de recuento se utilizan para mostrar números asociados con elementos de lista, como mensajes en un buzón.\nPara agregar burbujas de conteo, use un elemento en línea, como <span>, con la clase 'ui-li-count' y agregue un número.",
+    "description": "Las burbujas de recuento se utilizan para mostrar números asociados con elementos de lista, como mensajes en un buzón.\nPara agregar burbujas de conteo, use un elemento en línea, como 'span', con la clase 'ui-li-count' y agregue un número.",
     "url": "/40/"
   },
   {
@@ -221,7 +221,7 @@
   },
   {
     "title": "Filtrar elemento div con elementos",
-    "description": "Cómo filtrar un elemento <div> que contiene elementos <p> secundarios.",
+    "description": "Cómo filtrar un elemento <div> que contiene elementos 'p' secundarios.",
     "url": "/47/"
   },
   {
@@ -236,7 +236,7 @@
   },
   {
     "title": "Elementos de entrada de Formularios",
-    "description": "Los campos de entrada están codificados con elementos HTML estándar, y jQuery Mobile los diseñará para que se vean atractivos y fáciles de usar para dispositivos móviles. También puede usar los nuevos tipos de HTML5 <input>.",
+    "description": "Los campos de entrada están codificados con elementos HTML estándar, y jQuery Mobile los diseñará para que se vean atractivos y fáciles de usar para dispositivos móviles. También puede usar los nuevos tipos de HTML5 'input'.",
     "url": "/50/"
   },
   {
@@ -246,7 +246,7 @@
   },
   {
     "title": "Menu Select",
-    "description": "El elemento <select> crea una lista desplegable con varias opciones. Los elementos <option> dentro del elemento <select> definen las opciones disponibles en la lista.",
+    "description": "El elemento <select> crea una lista desplegable con varias opciones. Los elementos 'option' dentro del elemento 'select' definen las opciones disponibles en la lista.",
     "url": "/52/"
   },
   {
