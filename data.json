@@ -1,0 +1,307 @@
+[
+  {
+    "title": "Como Crear una pagina.",
+    "description": "Se recomienda que utilice el navegador Google Chrome o Firefox para una mejor experiencia de lectura.",
+    "url": "/3/"
+  },
+  {
+    "title": "Usando Páginas como Diálogos (JQueryMobile)",
+    "description": "Un cuadro de diálogo es un tipo de ventana que se utiliza para mostrar información especial o solicitar una entrada.",
+    "url": "/4/"
+  },
+  {
+    "title": "Transiciones con ventanas",
+    "description": "jQuery Mobile incluye efectos CSS3 que te permiten elegir la forma en que debería abrirse una página.\njQuery Mobile tiene una variedad de efectos sobre cómo hacer la transición de una página a la siguiente.",
+    "url": "/5/"
+  },
+  {
+    "title": "Botones en JQuery Mobile",
+    "description": "Las aplicaciones móviles se basan en la simplicidad de tocar las cosas que desea mostrar.",
+    "url": "/6/"
+  },
+  {
+    "title": "Iconos de botones",
+    "description": "jQuery Mobile proporciona un conjunto de iconos que harán que tus botones se vean más bonitos.",
+    "url": "/7/"
+  },
+  {
+    "title": "Ventanas Popups",
+    "description": "Los elementos emergentes son similares a los diálogos, ya que ambos se superponen a una parte de una página. Un cuadro emergente puede ser útil cuando desea mostrar texto pequeño, fotos, mapas u otro contenido.",
+    "url": "/8/"
+  },
+  {
+    "title": "Posicionamiento de ventanas emergentes",
+    "description": "Por defecto, las ventanas emergentes aparecerán directamente sobre el elemento pulsado. Para controlar la posición de la ventana emergente, use el atributo de posición de datos en el enlace que se usa para abrir la ventana emergente.",
+    "url": "/9/"
+  },
+  {
+    "title": "Transiciones en Popus",
+    "description": "Por defecto, las ventanas emergentes no tienen efectos de transición añadidos. Puede utilizar cualquiera de los efectos que presentamos en el capítulo 'Transiciones'.",
+    "url": "/10/"
+  },
+  {
+    "title": "Ventanas con punta de flecha",
+    "description": "Para agregar una flecha al borde de la ventana emergente, use el atributo data-arrow=' ' y especifique el valor 'l' (izquierda), 't' (arriba), 'r' (derecha) o 'b' (abajo)",
+    "url": "/11/"
+  },
+  {
+    "title": "Diálogos emergentes o modales",
+    "description": "Puede agregar una marca de diálogo estándar en una ventana emergente (encabezado, contenido y marca de pie de página)",
+    "url": "/12/"
+  },
+  {
+    "title": "Fotos popup",
+    "description": "También puede mostrar imágenes en una ventana emergente",
+    "url": "/13/"
+  },
+  {
+    "title": "Superposición de ventanas emergentes",
+    "description": "Puede controlar el color de fondo detrás de la ventana emergente (la página en sí) con el atributo data-overlay-theme.",
+    "url": "/14/"
+  },
+  {
+    "title": "Barra de herramientas",
+    "description": "Los elementos de la barra de herramientas a menudo se colocan dentro de los encabezados y pies de página, para una navegación de 'fácil acceso'",
+    "url": "/15/"
+  },
+  {
+    "title": "Barra de Herramientas en Pie Página",
+    "description": "El pie de página se encuentra en la parte inferior de la página.\nEl pie de página es más flexible que el encabezado: es más funcional y se puede cambiar en todas las páginas, por lo que puede contener tantos botones como sea necesario",
+    "url": "/16/"
+  },
+  {
+    "title": "Posicionando encabezados y pies de página",
+    "description": "Use el atributo de posición de datos para posicionar sus encabezados y pies de página",
+    "url": "/17/"
+  },
+  {
+    "title": "Mostrando solo iconos en la Barra de Herramientas",
+    "description": "Utilizando la clase ui-btn-icon-notext para mostrar solo el icono en los botones de encabezado y pie de página",
+    "url": "/18/"
+  },
+  {
+    "title": "Barras de navegación",
+    "description": "Una barra de navegación consiste en un grupo de enlaces que se alinean horizontalmente, generalmente dentro de un encabezado o pie de página.",
+    "url": "/19/"
+  },
+  {
+    "title": "Barras de navegación con iconos",
+    "description": "Para agregar un ícono a su botón de navegación, use el atributo data-icon",
+    "url": "/20/"
+  },
+  {
+    "title": "Posicionamiento de iconos en la Barra de Navegación",
+    "description": "Al igual que con la clase 'ui-btn-icon- position' (especificada en el capítulo 'Iconos'), puede elegir dónde se debe colocar el icono en el botón de navegación: arriba, derecha, abajo o izquierda.",
+    "url": "/21/"
+  },
+  {
+    "title": "Botones Activos",
+    "description": "Cuando se toca / hace clic en un enlace en la barra de navegación, se obtiene el aspecto seleccionado (presionado).\nPara lograr este aspecto sin tener que tocar el enlace, use la class = 'ui-btn-active'.",
+    "url": "/22/"
+  },
+  {
+    "title": "Barras de Navegación en el contenido",
+    "description": "Se puede colocar barras de navegación en el contenido.\nTambién se puede agregar en el pie de pagina.",
+    "url": "/23/"
+  },
+  {
+    "title": "Paneles en Query Mobile",
+    "description": "Los paneles en jQuery Mobile se deslizarán desde el lado izquierdo o derecho de la pantalla con contenido adicional.",
+    "url": "/24/"
+  },
+  {
+    "title": "Visualización de Paneles",
+    "description": "Puede controlar el modo de visualización del panel con el atributo de visualización de datos",
+    "url": "/25/"
+  },
+  {
+    "title": "Posicionamiento de Panel con respecto al contenido",
+    "description": "También puede especificar cómo se debe colocar el contenido del panel de acuerdo con el resto de la página cuando un usuario comienza a desplazarse. De forma predeterminada, el panel se desplazará con la página (pero el contenido del panel permanecerá en la parte superior de la página).",
+    "url": "/26/"
+  },
+  {
+    "title": "Elementos Colapsables o Desplegables",
+    "description": "Los elementos plegables le permiten ocultar o mostrar contenido, lo cual es útil para almacenar partes de información.",
+    "url": "/27/"
+  },
+  {
+    "title": "Ventana Emergente con Contenido en Acordeón",
+    "description": "Se puede crear una ventana Popup (emergente) con contenido en acordeon.",
+    "url": "/28/"
+  },
+  {
+    "title": "Eliminar esquinas redondeadas en los desplegables o acordeones",
+    "description": "Cómo eliminar las esquinas redondeadas y agregar un ancho completo en los elementos plegables, usando data-inset.",
+    "url": "/29/"
+  },
+  {
+    "title": "Como hacer más pequeños los elementos desplegables o acordeon",
+    "description": "Cómo hacer más pequeños los elementos plegables.",
+    "url": "/30/"
+  },
+  {
+    "title": "Cambio del icono con el icono de datos contraídos y el icono de datos expandidos",
+    "description": "Cómo cambiar el icono de los elementos plegables (el valor predeterminado es + y -).",
+    "url": "/31/"
+  },
+  {
+    "title": "Tablas Responsivas",
+    "description": "El diseño responsivo es útil cuando desea que el contenido de su página web móvil responda al dispositivo del usuario, como su tamaño de pantalla y orientación.",
+    "url": "/32/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "url": "/0/"
+  }
+]
