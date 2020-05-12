@@ -11,7 +11,7 @@ $(document).ready(() => {
           (i + 1) +
           "</span></div><p class='mb-1'>" +
           data[i].description +
-          "</p></a>"
+          "</p></a><div class='pb-2'><div>"
       );
     }
   });
