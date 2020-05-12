@@ -231,7 +231,7 @@
   },
   {
     "title": "Contenedores de Formularios",
-    "description": "Para hacer que las etiquetas y los elementos de formulario se vean correctamente en pantallas más anchas, coloquenlos dentro de un elemento <div> o <fieldset> con la clase 'ui-field-contener' alrededor del elemento label / form.",
+    "description": "Para hacer que las etiquetas y los elementos de formulario se vean correctamente en pantallas más anchas, coloquenlos dentro de un elemento 'div' o 'fieldset' con la clase 'ui-field-contener' alrededor del elemento label / form.",
     "url": "/49/"
   },
   {
@@ -246,7 +246,7 @@
   },
   {
     "title": "Menu Select",
-    "description": "El elemento <select> crea una lista desplegable con varias opciones. Los elementos 'option' dentro del elemento 'select' definen las opciones disponibles en la lista.",
+    "description": "El elemento 'select' crea una lista desplegable con varias opciones. Los elementos 'option' dentro del elemento 'select' definen las opciones disponibles en la lista.",
     "url": "/52/"
   },
   {
